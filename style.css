@@ -31,6 +31,8 @@ p {
   background-color: #f4f4f4;
   border-radius: 5px;
   margin-top: 10px;
+  color: #000;
+  cursor: pointer;
 }
 
 .msg {
